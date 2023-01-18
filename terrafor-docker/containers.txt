@@ -1,0 +1,16 @@
+influxdb-prod-9ucd: 172.17.0.2:8086
+nodered-prod-xp7d: 172.17.0.5:1880
+grafana-prod-ect4: 172.17.0.3:3000
+influxdb-prod-5hm9: 172.17.0.4:8087
+grafana-prod-c3jh: 172.17.0.2:3000
+influxdb-prod-avfc: 172.17.0.3:8086
+influxdb-prod-l17b: 172.17.0.4:8087
+nodered-prod-ruet: 172.17.0.5:1880
+grafana-prod-u9cg: 172.17.0.2:3000
+grafana-prod-65em: 172.17.0.3:3000
+grafana-prod-8otg: 172.17.0.2:3001
+grafana-prod-65em: 172.17.0.2:3000
+grafana-prod-8otg: 172.17.0.3:3001
+influxdb-prod-73xg: 172.17.0.5:8087
+influxdb-prod-h02c: 172.17.0.4:8086
+nodered-prod-7dqh: 172.17.0.6:1880
